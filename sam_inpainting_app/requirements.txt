@@ -1,0 +1,12 @@
+torch
+opencv-python
+numpy
+matplotlib
+Pillow
+segment-anything
+diffusers
+transformers
+accelerate
+simple-lama-inpainting
+scikit-image
+streamlit
